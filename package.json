@@ -1,0 +1,14 @@
+{
+  "name": "mock-server",
+  "version": "1.0.0",
+  "description": "node + express 前端专用服务器，用于提供接口、模拟mock数据",
+  "main": "index.js",
+  "author": "lee-xin",
+  "license": "ISC",
+  "scripts": {
+    "mock": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
